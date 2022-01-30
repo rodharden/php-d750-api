@@ -6,6 +6,6 @@
 
 <body>
     <?
-    phpinfo()
+    $ENV["COMPUTER_NAME"]
     ?>
 </body>
