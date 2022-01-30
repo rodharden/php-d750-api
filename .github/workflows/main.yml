@@ -30,5 +30,3 @@ jobs:
         user: "epiz_27990415"
         password: "hqf6BtKfvRPbHpD"
         localDir: "htdocs"
-        remoteDir: "main"
-        options: "--delete --asci"
