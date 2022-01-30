@@ -29,6 +29,6 @@ jobs:
         host: "ftpupload.net"
         user: "epiz_27990415"
         password: "hqf6BtKfvRPbHpD"
-        localDir: "main"
-        remoteDir: "htdocs"
+        localDir: "htdocs"
+        remoteDir: "main"
         options: "--delete --asci"
